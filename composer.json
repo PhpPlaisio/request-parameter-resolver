@@ -1,11 +1,11 @@
 {
   "name": "setbased/abc-request-parameter-resolver",
-  "description": "ABC Framework: Request Parameter Resolver",
+  "description": "ABC-Framework: Request Parameter Resolver",
   "keywords": [
-    "framework",
-    "request",
-    "parameter",
-    "resolver"
+    "ABC-Framework",
+    "Request",
+    "Parameter",
+    "Resolver"
   ],
   "require": {
     "php": ">=7.0.0"
