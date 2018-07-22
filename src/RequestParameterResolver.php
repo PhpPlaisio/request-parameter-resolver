@@ -1,8 +1,8 @@
 <?php
-//----------------------------------------------------------------------------------------------------------------------
+declare(strict_types=1);
+
 namespace SetBased\Abc\RequestParameterResolver;
 
-//----------------------------------------------------------------------------------------------------------------------
 /**
  * Interface for RequestParameterResolvers. A RequestParameterResolver resolves the CGI parameters from a clean URL. Or
  * in other words uncleans a clean URL.
