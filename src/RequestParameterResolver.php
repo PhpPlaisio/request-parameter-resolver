@@ -18,7 +18,7 @@ interface RequestParameterResolver
    * @api
    * @since 1.0.0
    */
-  public function resolveRequestParameters();
+  public function resolveRequestParameters(): void;
 
   //--------------------------------------------------------------------------------------------------------------------
 }
