@@ -1,20 +1,19 @@
 {
-  "name": "setbased/abc-request-parameter-resolver",
-  "description": "ABC-Framework: Request Parameter Resolver",
+  "name": "plaisio/request-parameter-resolver",
+  "description": "PhpPlaisio: Request Parameter Resolver",
   "keywords": [
-    "ABC-Framework",
+    "PhpPlaisio",
     "Request",
     "Parameter",
     "Resolver"
   ],
+  "license": "MIT",
   "require": {
     "php": ">=7.1.0"
   },
-  "type": "library",
-  "license": "MIT",
   "autoload": {
     "psr-4": {
-      "SetBased\\Abc\\RequestParameterResolver\\": "src/"
+      "Plaisio\\RequestParameterResolver\\": "src/"
     }
   }
 }

@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace SetBased\Abc\RequestParameterResolver;
+namespace Plaisio\RequestParameterResolver;
 
 /**
  * Interface for RequestParameterResolvers. A RequestParameterResolver resolves the CGI parameters from a clean URL. Or
