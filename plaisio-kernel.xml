@@ -1,9 +1,0 @@
-<kernel>
-    <properties>
-        <property>
-            <type>\Plaisio\RequestParameterResolver\RequestParameterResolver</type>
-            <name>requestParameterResolver</name>
-            <description>The helper object for resolving the CGI parameters from a clean URL.</description>
-        </property>
-    </properties>
-</kernel>
